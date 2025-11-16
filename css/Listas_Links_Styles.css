@@ -1,0 +1,21 @@
+/*  */
+
+p {
+    color : rgb(114, 16, 16); 
+    /* Fuente */
+    font-family: 'Tupac';
+    /* Tamaño de la letra */
+    font-size: 20; 
+    /* Grosor de la letra */
+    font-weight: 600;
+    /* Inclinacion de la letra */
+    font-style: oblique;
+    /* Alineacion de la letra */
+    text-align: center;
+    /* Separacion entre lineas de la letra */
+    line-height: 1,3 ;
+    /* Separacion de las letras */
+    letter-spacing: 2;
+    /* Mayusculas de la letras  */
+    text-transform: capitalize;
+}
